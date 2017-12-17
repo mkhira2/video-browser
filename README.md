@@ -6,8 +6,7 @@ This app was written entirely using ReactJS.
 
 
 ## Screenshot
-COMING SOON
-![VideoBrowser](/src/assets/images/video-browser.png)
+![VideoBrowser](/src/images/video-browser.png)
 
 ## Installation
 
@@ -19,5 +18,3 @@ npm start
 
 open localhost:8080 in the browser
 ```
-
-AIzaSyBGA0hzjn9ntBAq_veCFJCfsxnbYQYjsZ8
